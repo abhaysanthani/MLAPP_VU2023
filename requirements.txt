@@ -1,5 +1,5 @@
-numpy==1.16.2
-pandas==0.24.6
+numpy
+pandas==2.15 ## master branch update
 scikit_learn==0.20.3
 joblib==0.13.2
 sqlalchemy
